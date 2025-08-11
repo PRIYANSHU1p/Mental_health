@@ -1,0 +1,1 @@
+Place placeholder product images under public/placeholder/ as tee.jpg, earbuds.jpg, and mug.jpg.
